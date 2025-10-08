@@ -1,6 +1,6 @@
 # ASK&FSK
 # Aim
-Write a simple Python program for the modulation and demodulation of ASK and FSK.
+Write a simple Python program for the modulation and demodulation of ASK and FSK
 # Tools required
 Laptop with colab
 # Program
